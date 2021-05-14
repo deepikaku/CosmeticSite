@@ -1,0 +1,83 @@
+[
+  {
+    "Id": 1,
+    "Name": "Matte Lipistics",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  },
+  {
+    "Id": 2,
+    "Name": "Glossy Lipistics",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  },
+  {
+    "Id": 3,
+    "Name": "Liquid Lipistics",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  },
+  {
+    "Id": 4,
+    "Name": "Liquid Sindoor",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  },
+  {
+    "Id": 5,
+    "Name": "Spray Perfumes",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  },
+  {
+    "Id": 6,
+    "Name": "Compact Powder",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  },
+  {
+    "Id": 7,
+    "Name": "Powder Sindoor",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  },
+  {
+    "Id": 8,
+    "Name": "Rollon",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  },
+  {
+    "Id": 9,
+    "Name": "talcum Powder",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  }
+]

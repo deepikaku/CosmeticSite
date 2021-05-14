@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "Name": "Revlon",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  },
+  {
+    "Id": 2,
+    "Name": "Huda Beauty",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  },
+  {
+    "Id": 3,
+    "Name": "Lakme",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  },
+  {
+    "Id": 4,
+    "Name": "Amway",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  },
+  {
+    "Id": 5,
+    "Name": "Loreal",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  },
+  {
+    "Id": 6,
+    "Name": "Garnier",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  }
+]

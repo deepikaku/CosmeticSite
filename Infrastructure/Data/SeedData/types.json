@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Name": "Lipistics",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  },
+  {
+    "Id": 2,
+    "Name": "Sindoor",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  },
+  {
+    "Id": 3,
+    "Name": "Perfumes",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  },
+  {
+    "Id": 4,
+    "Name": "Powder",
+    "CreationDate": "2021-05-12T20:14:17",
+    "ModificationDate": "2021-05-12T20:14:17",
+    "CreatedBy": "Initial",
+    "ModifiedBy": "Initial",
+    "IP": "100:100:100:100"
+  }
+]

@@ -1,4 +1,4 @@
-//import uuid from 'uuid/v4';
+import uuid from 'uuid/dist';
 
 export interface IBasket {
     id: string;
@@ -20,7 +20,7 @@ export interface IBasketItem {
 }
 
 export class Basket implements IBasket {
-  id = "";//uuid();
+    id = uuid();
     items: IBasketItem[] = [];
 }
 
